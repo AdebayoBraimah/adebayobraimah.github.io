@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - AdebayoBraimah
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - AdebayoBraimah/gift_exchange
+  - AdebayoBraimah/adebayobraimah.github.io
+  - AdebayoBraimah/dotfiles
+  - AdebayoBraimah/mac-dev-playbook
+  - AdebayoBraimah/ansible-mac-dev
+  - AdebayoBraimah/ansible-collection-mac
