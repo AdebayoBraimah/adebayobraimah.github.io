@@ -22,6 +22,55 @@
 
 </div>
 
+## Note
+
+The instructions below are for the `git-submodule` repository/repositories. 
+
+Further development instructions can be found in the [INSTALL](INSTALL.md) section.
+
+If downloading for first time use:
+```bash
+git clone --recurse-submodules https://github.com/AdebayoBraimah/adebayobraimah.github.io.git
+```
+
+If updating a local version of your repository, use the following commands:
+
+```bash
+git submodule init
+git submodule update
+```
+
+NOTE: In ``git`` 1.8.2+ the following could also be done:
+
+```bash
+git submodule update --remote --merge
+```
+
+To pull new changes:
+
+```bash
+git pull --recurse-submodules
+```
+
+To commit any changes made to the submodules:
+
+```bash
+git submodule update --remote --merge
+```
+
+The procedure for updating and pushing from your local should be as follows:
+
+```bash
+# NOTE: Commit any previous changes beforehand
+git pull --recurse-submodules  # Pulls remote repo changes to local repo
+git submodule update \
+--remote \
+--merge                        # Any remote changes will now be merged with your local repo
+git add .                      # Add all changed/updated files
+git commit -m "MSG: Commit message"
+git push -u origin main        # Push local repo changes to remote repo
+```
+
 ## User community
 
 The vibrant community of **al-folio** users is growing!
