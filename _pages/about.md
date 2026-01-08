@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a Ph.D. student in computer science at [Stony Brook University](https://www.cs.stonybrook.edu/) (Aug 2022 -- Present), advised by [Jian Li, Ph.D](https://www.cs.stonybrook.edu/people/faculty/jianli). My primary research interests focus on the explainability of machine learning models, aiming to develop methods that make complex algorithms more interpretable and transparent.
 
-I obtained my B.S. in Chemistry and Mathematics from the University of Kansas, and my M.S. in Neuroimaging and Informatics at the University of Southern California. 
+I obtained my B.S. in Chemistry and Mathematics from the University of Kansas, and my M.S. in Neuroimaging and Informatics at the University of Southern California.
 
 During my first two years at Stony Brook University, I served as a Teaching Assistant for courses such as IAE 101 (Digital Intelligence Arts & Engineering), CSE 215 (Foundations of Computer Science), and CSE/AMS 547 (Discrete Mathematics). I am also actively involved in mentoring through the Community of Student Mentors (CSM) via the Center for Inclusive Education (CIE) and the Educational Opportunity Program (EOP) at Stony Brook. Mentoring has been a rewarding way to support fellow students and contribute to an inclusive academic community.
 

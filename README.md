@@ -24,11 +24,12 @@
 
 ## Note
 
-The instructions below are for the `git-submodule` repository/repositories. 
+The instructions below are for the `git-submodule` repository/repositories.
 
 Further development instructions can be found in the [INSTALL](INSTALL.md) section.
 
 If downloading for first time use:
+
 ```bash
 git clone --recurse-submodules https://github.com/AdebayoBraimah/adebayobraimah.github.io.git
 ```
@@ -40,7 +41,7 @@ git submodule init
 git submodule update
 ```
 
-NOTE: In ``git`` 1.8.2+ the following could also be done:
+NOTE: In `git` 1.8.2+ the following could also be done:
 
 ```bash
 git submodule update --remote --merge

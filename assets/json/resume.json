@@ -37,9 +37,7 @@
       "startDate": "2024-06-01",
       "endDate": "2024-08-01",
       "summary": "Conducted research on explainability of machine learning models using loss landscape analysis under the supervision of Prof. Yifan Sun and Dr. Walter Bennette.",
-      "highlights": [
-        "Collaborated on cutting-edge explainable AI projects at AFRL."
-      ]
+      "highlights": ["Collaborated on cutting-edge explainable AI projects at AFRL."]
     },
     {
       "name": "Stony Brook University",
@@ -47,9 +45,7 @@
       "startDate": "2023-01-01",
       "endDate": "2023-05-01",
       "summary": "Focused on profiling eigenspectrum decomposition methods for large matrices under Prof. Yifan Sun.",
-      "highlights": [
-        "Applied advanced eigenspectrum decomposition techniques to analyze neural networks."
-      ]
+      "highlights": ["Applied advanced eigenspectrum decomposition techniques to analyze neural networks."]
     },
     {
       "name": "Cincinnati Children’s Hospital Medical Center",
@@ -57,9 +53,7 @@
       "startDate": "2018-06-01",
       "endDate": "2022-07-01",
       "summary": "Analyzed functional and structural connectivity in pediatric neuroimaging projects.",
-      "highlights": [
-        "Developed imaging solutions for neonatal hypoxic ischemic encephalopathy and ADHD studies."
-      ]
+      "highlights": ["Developed imaging solutions for neonatal hypoxic ischemic encephalopathy and ADHD studies."]
     }
   ],
   "education": [
@@ -107,21 +101,11 @@
   "skills": [
     {
       "name": "Programming",
-      "keywords": [
-        "Python",
-        "MATLAB",
-        "Bash",
-        "R",
-        "LATEX"
-      ]
+      "keywords": ["Python", "MATLAB", "Bash", "R", "LATEX"]
     },
     {
       "name": "Research Methods",
-      "keywords": [
-        "Explainable AI",
-        "Reinforcement Learning",
-        "Large Language Models"
-      ]
+      "keywords": ["Explainable AI", "Reinforcement Learning", "Large Language Models"]
     }
   ]
 }

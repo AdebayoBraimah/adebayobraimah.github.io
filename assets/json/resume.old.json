@@ -37,9 +37,7 @@
       "startDate": "2023-01-01",
       "endDate": "Present",
       "summary": "Analyzed loss landscapes of neural networks under the supervision of Asst. Prof. Yifan Sun, PhD.",
-      "highlights": [
-        "Eigenspectrum decomposition methods for large matrices"
-      ]
+      "highlights": ["Eigenspectrum decomposition methods for large matrices"]
     },
     {
       "name": "Imaging Research Center, Cincinnati Children\u2019s Hospital Medical Center",
@@ -65,10 +63,7 @@
       "startDate": "2022-08-01",
       "endDate": "",
       "score": "",
-      "courses": [
-        "Deep Learning",
-        "Machine Learning Explainability"
-      ]
+      "courses": ["Deep Learning", "Machine Learning Explainability"]
     },
     {
       "institution": "University of Southern California",
@@ -79,10 +74,7 @@
       "startDate": "2017-08-01",
       "endDate": "2018-05-01",
       "score": "",
-      "courses": [
-        "Neuroinformatics",
-        "Medical Imaging"
-      ]
+      "courses": ["Neuroinformatics", "Medical Imaging"]
     },
     {
       "institution": "University of Kansas",
@@ -93,23 +85,14 @@
       "startDate": "2012-06-01",
       "endDate": "2017-07-01",
       "score": "",
-      "courses": [
-        "Advanced Chemistry",
-        "Mathematics"
-      ]
+      "courses": ["Advanced Chemistry", "Mathematics"]
     }
   ],
   "skills": [
     {
       "name": "Programming",
       "level": "Experienced",
-      "keywords": [
-        "Python",
-        "MATLAB",
-        "Bash",
-        "R",
-        "LaTeX"
-      ]
+      "keywords": ["Python", "MATLAB", "Bash", "R", "LaTeX"]
     }
   ]
 }
