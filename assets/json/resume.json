@@ -32,12 +32,20 @@
   },
   "work": [
     {
+      "name": "Air Force Research Laboratory (AFRL), Information Directorate",
+      "position": "Graduate Research Intern",
+      "startDate": "2025-06-01",
+      "endDate": "2025-08-01",
+      "summary": "Internship via the NDSEG fellowship program at AFRL. Worked alongside Assoc. Prof. Garrett Katz, PhD (Syracuse University) and AFRL point of contact Simon Khan, PhD.",
+      "highlights": ["Explainable Multi-Agent Reinforcement Learning (MARL) for cooperative tasks of unmanned aerial vehicles (UAVs)."]
+    },
+    {
       "name": "Griffiss Institute, AFRL Information Directorate",
       "position": "Graduate Research Intern",
       "startDate": "2024-06-01",
       "endDate": "2024-08-01",
-      "summary": "Conducted research on explainability of machine learning models using loss landscape analysis under the supervision of Prof. Yifan Sun and Dr. Walter Bennette.",
-      "highlights": ["Collaborated on cutting-edge explainable AI projects at AFRL."]
+      "summary": "Internship via the SFFP (Summer Faculty Fellowship Program) at AFRL. Worked alongside Asst. Prof. Yifan Sun, PhD and AFRL point of contact Walter Bennette, PhD.",
+      "highlights": ["Explainability of machine learning models using loss landscape analysis."]
     },
     {
       "name": "Stony Brook University",
@@ -83,6 +91,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "SUNY GREAT Award",
+      "date": "2025-03-01",
+      "awarder": "State University of New York (SUNY)",
+      "summary": "SUNY Graduate Research Empowering and Accelerating Talent (GREAT) Award. Provided to SUNY students who have been awarded prestigious national fellowships."
+    },
     {
       "title": "NDSEG Fellowship",
       "date": "2024-08-01",
